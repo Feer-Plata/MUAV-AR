@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: c5609c3f60abdf5418c22c0a512d0711
+  - enabled: 1
+    path: Assets/Scenes/Mapa.unity
+    guid: c0ea3192227d1ba41ab974df836307ef
+  - enabled: 1
+    path: Assets/Scenes/RealidadAumentada.unity
+    guid: 525bb7f421788364d8490a7849fe658a
   m_configObjects: {}
