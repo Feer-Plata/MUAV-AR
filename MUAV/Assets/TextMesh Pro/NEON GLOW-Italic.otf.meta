@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ce57a718bfb7f0446988dbe02ba69b03
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - NEON GLOW
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 11005da3e79a6554ab0119d9cc606d81, type: 3}
+  - {fileID: 12800000, guid: 3e7a4c28a581c6941b9461af6057c5a4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
